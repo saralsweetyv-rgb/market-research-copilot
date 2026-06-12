@@ -1,24 +1,19 @@
 # Market Research Copilot
 
-An AI-powered Market Research Copilot built with Python.
+AI-powered market research assistant built with Python, Groq, and Streamlit.
 
-## Project Goals
+## Features
 
-- Learn AI Engineering
-- Build a Portfolio Project
-- Prepare for Internships and Jobs
-- Learn MCP (Model Context Protocol)
-- Generate Market Research Reports
+- AI-generated market reports
+- Industry-specific analysis
+- Web research integration
+- Markdown report export
+- Streamlit web interface
 
-## Project Structure
+## Installation
 
-market-research-copilot/
-│
-├── docs/
-├── data/
-├── reports/
-├── src/
-├── tests/
-├── venv/
-├── .gitignore
-└── README.md
+pip install -r requirements.txt
+
+## Run
+
+streamlit run app.py
