@@ -1,4 +1,4 @@
-# Market Research Copilot
+# Market Research Copilot project
 
 AI-powered market research assistant built with Python, Groq, and Streamlit.
 
